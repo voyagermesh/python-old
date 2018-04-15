@@ -1,0 +1,3 @@
+[submodule "kubernetes/base"]
+	path = kubernetes/base
+	url = https://github.com/voyager-client/python-base
